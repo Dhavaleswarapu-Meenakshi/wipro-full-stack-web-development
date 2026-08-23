@@ -5,7 +5,7 @@ This repository contains my solutions for the Wipro Full Stack Web Development t
 ## Projects
 
 - Project 1 – Core Java
-- Project 2 – (To be added)
+- Project 2 – HTML5
 - Project 3 – (To be added)
 
 More projects will be added as I progress through the training.
