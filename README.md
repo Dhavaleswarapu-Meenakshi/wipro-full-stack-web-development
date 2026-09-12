@@ -7,6 +7,7 @@ This repository contains my solutions for the Wipro Full Stack Web Development t
 ### Project 1 – Core Java
 
 Core Java programming assignments covering:
+
 - Employee Information
 - Student Grade Calculation
 - Video Rental System
@@ -19,6 +20,7 @@ HTML5 assignments covering the fundamentals of creating and structuring web page
 ### Project 3 – HTML, CSS, JavaScript and Bootstrap
 
 Assignments covering:
+
 - HTML
 - CSS
 - JavaScript
@@ -29,6 +31,7 @@ Assignments covering:
 ### Project 4 – Servlets, JSP and JavaBeans
 
 Assignments covering:
+
 - Introduction to Servlets
 - GET/POST Requests
 - ServletConfig and ServletContext
@@ -40,6 +43,7 @@ Assignments covering:
 ### Project 5 – Hibernate
 
 Assignments covering:
+
 - Hibernate XML Mapping
 - Entity/Object Persistence
 - Insert, Retrieve, Update and Delete Operations
@@ -57,6 +61,7 @@ Assignments covering:
 ### Project 6 – Spring
 
 Assignments covering:
+
 1. Movie Bean using Spring XML Configuration
 2. Default Message using Spring
 3. Dependency Injection with Shapes
@@ -72,11 +77,14 @@ Assignments covering:
 13. Spring MVC Display Students
 14. Legion Bank – Cash Back Offer using Spring, Hibernate and MySQL
 
-More projects will be added as I progress through the training.
-## Project 7 � Spring Boot
+### Project 7 – Spring Boot
 
-- Hello World � Spring Boot application
-- Dependency Injection � Laptop, Hard Disk and Battery
-- Login Application � Spring Boot MVC
-- Employee Management System � JPA/Hibernate CRUD
-- Employee Management System � JPA/Hibernate REST CRUD
+Assignments covering:
+
+- Hello World – Spring Boot application
+- Dependency Injection – Laptop, Hard Disk and Battery
+- Login Application – Spring Boot MVC
+- Employee Management System – JPA/Hibernate CRUD
+- Employee Management System – JPA/Hibernate REST CRUD
+
+More projects will be added as I progress through the training.
