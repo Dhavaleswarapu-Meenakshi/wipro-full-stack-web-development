@@ -73,3 +73,10 @@ Assignments covering:
 14. Legion Bank â€“ Cash Back Offer using Spring, Hibernate and MySQL
 
 More projects will be added as I progress through the training.
+## Project 7 – Spring Boot
+
+- Hello World – Spring Boot application
+- Dependency Injection – Laptop, Hard Disk and Battery
+- Login Application – Spring Boot MVC
+- Employee Management System – JPA/Hibernate CRUD
+- Employee Management System – JPA/Hibernate REST CRUD
