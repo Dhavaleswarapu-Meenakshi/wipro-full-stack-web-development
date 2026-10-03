@@ -86,5 +86,3 @@ Assignments covering:
 - Login Application – Spring Boot MVC
 - Employee Management System – JPA/Hibernate CRUD
 - Employee Management System – JPA/Hibernate REST CRUD
-
-More projects will be added as I progress through the training.
